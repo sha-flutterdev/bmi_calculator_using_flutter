@@ -1,17 +1,11 @@
-# bmi
+<h1 align="center">BMI CHECKER</h1>
+<p align="center"> <img src="https://calculatormarket.com/wp-content/uploads/2016/10/BMI-Calculator.jpg"> </p>
+<p align="justify">In this mini project, I have chosen to built a Body Mass Index(BMI) calculator which is developed as a mobile application named as “BMI FINDER”. BMI is a reliable indicator which is used to screen for weight categories that estimates your body fat.</p>
 
-A new Flutter project.
+<h1 align="left">What features we have introduced in BMI FINDER?</h1>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# bmi_calculator_using_flutter" 
+<h3 align="left">1.	User-friendly</h3>
+<h3 align="left">2.	 Check your body stats to find your ideal weight, because overweight and obesity are risk factors for diseases such as hypertension, heart disease and diabetes.</h3>
+<h3 align="left">3.	Compatibility on different OS</h3>
+<h3 align="left">4.	Eye-pleasing background</h3>
+<h3 align="left">5.	Minimalist And Elegant Style Of The Layout</h3>
