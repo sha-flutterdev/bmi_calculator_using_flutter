@@ -10,7 +10,7 @@
 <h3 align="left">4.	Eye-pleasing background</h3>
 <h3 align="left">5.	Minimalist And Elegant Style Of The Layout</h3>
 
-<h4 align="justify">Finally, we have created BMI FINDER, You can find the downloadable APK link down below.</h4>
+<h4 align="justify">Finally, You can find the downloadable APK link down below.</h4>
 
 
 Apk: https://github.com/sha1207/bmi_calculator_using_flutter/blob/main/BMI%20FINDER%20APK/BMI%20FINDER.apk
