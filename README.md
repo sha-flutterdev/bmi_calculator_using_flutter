@@ -1,4 +1,4 @@
-<h1 align="center">BMI FINDER</h1>
+<h1 align="center">BMI CHECKER</h1>
 <p align="center"> <img src="https://calculatormarket.com/wp-content/uploads/2016/10/BMI-Calculator.jpg"> </p>
 <p align="justify">In this mini project, I have chosen to built a Body Mass Index(BMI) calculator which is developed as a mobile application named as “BMI FINDER”. BMI is a reliable indicator which is used to screen for weight categories that estimates your body fat.</p>
 
