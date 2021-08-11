@@ -13,6 +13,6 @@
 <h3 align="justify">Finally, You can find the downloadable APK link down below.</h3>
 
 
-Apk: https://github.com/sha1207/bmi_calculator_using_flutter/blob/main/BMI%20CHECKER%20APK/bmi_checker.apk
+Apk: https://github.com/sha-flutterdev/bmi_calculator_using_flutter/blob/main/BMI%20CHECKER%20APK/bmi_checker.apk
 
 
